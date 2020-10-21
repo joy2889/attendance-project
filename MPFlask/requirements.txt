@@ -31,7 +31,6 @@ urllib3==1.25.11
 Werkzeug==1.0.1
 WTForms==2.3.3
 zope.interface==5.1.2
-bcrypt==3.2.0
 blinker==1.4
 cachetools==4.1.1
 certifi==2020.6.20
